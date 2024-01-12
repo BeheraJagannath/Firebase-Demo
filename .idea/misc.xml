@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/drawable/bg_rect_round.xml" value="0.196" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_custom_tablayout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_finterprint.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_login2.xml" value="0.3484375" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_logout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_navigation.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_notification.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_rxactivity.xml" value="0.3625" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_rxkotlin.xml" value="0.3625" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_send_otp.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_send_otp_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_send_otp_activityy.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_sensor_orientation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_verify.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/activity_verify_activityy.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/fragment_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/fragment_signin.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/fragment_success.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/new_app.xml" value="0.365625" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/new_app_widget.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/no_internet_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/notification_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/layout/rx_row.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/menu/context_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/xml/accessibility_service_config.xml" value="0.275" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/LoginFirebaseDemo/app/src/main/res/xml/new_app_widget.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/activity_list_item.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

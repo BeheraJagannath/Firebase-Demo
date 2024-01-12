@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1062864551941",
+    "project_id": "loginfirebasedemo-787d3",
+    "storage_bucket": "loginfirebasedemo-787d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062864551941:android:9884649865aa4f35e09c6c",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062864551941-ruapanhllj1j6cjs5vb22q8pfqn2jp98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginfirebasedemo",
+            "certificate_hash": "ca760fe91054b559024fd80eb39fe3556e7570dc"
+          }
+        },
+        {
+          "client_id": "1062864551941-hpe97if1h3egfmnjifp3qgsajeuc9qlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7wGJS0p0oMRGISxyoc_8XSOWi5JAxn6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062864551941-hpe97if1h3egfmnjifp3qgsajeuc9qlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

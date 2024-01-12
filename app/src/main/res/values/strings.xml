@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginFirebaseDemo</string>
+    <string name="accessibility_service_label">LoginFirebaseDemo</string>
+    <string name="network_text1">No Internet</string>
+    <string name="network_retry">Network Retry</string>
+    <string name="network_text2">Please Check your internet problem and try again</string>
+</resources>
